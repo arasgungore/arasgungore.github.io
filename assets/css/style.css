@@ -941,7 +941,7 @@ section .container {
 
 .contact .php-email-form {
   padding: 30px;
-  background: rgba(255, 255, 255, 0.08);
+  background: #09203a;
 }
 
 .contact .php-email-form .validate {
@@ -964,7 +964,7 @@ section .container {
 .contact .php-email-form .sent-message {
   display: none;
   background: rgba(255, 255, 255, 0.08);
-  background: #1c7d32;
+  background: #12d640;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -984,7 +984,7 @@ section .container {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #1c7d32;
+  border: 3px solid #12d640;
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -1038,7 +1038,7 @@ section .container {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #1c7d32;
+  background: #12d640;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -1047,7 +1047,7 @@ section .container {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #15bb62;
+  background: #12d640;
 }
 
 @-webkit-keyframes animate-loading {
