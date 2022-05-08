@@ -57,6 +57,17 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.background-image {
+  position: absolute;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(120%) contrast(160%) saturate(135%);
+}
+
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
