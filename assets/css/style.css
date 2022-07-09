@@ -68,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
   filter: contrast(150%);
 }
 
-svg {
+.svg {
   fill: currentColor;
 }
 
